@@ -1,0 +1,9 @@
+{
+  "name": "SocketTestClient",
+  "type": "3d",
+  "uuid": "a6f244b6-3e24-43f7-973c-66502e4ba80d",
+  "version": "3.0.0",
+  "dependencies": {
+    "socket.io-client": "^3.1.2"
+  }
+}
