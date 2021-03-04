@@ -1,6 +1,6 @@
 
 import { _decorator, Component, Node } from 'cc';
-import io from 'socket.io-client/dist/socket.io.js';
+import { io } from 'socket.io-client/dist/socket.io.js';
 const { ccclass, property } = _decorator;
 
 @ccclass('Connection')
